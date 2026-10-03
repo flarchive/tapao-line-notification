@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of tapao/line-notification.** Not for installation: use [Packagist](https://packagist.org/packages/tapao/line-notification) or the [upstream repository](https://github.com/Tapao-NonSen/LINE-Notification).
 
-**0** versions archived · Latest: [`2.2.0`](https://github.com/flarchive/tapao-line-notification/tree/archive/v2.2.0) · License: `MIT` · Flarum: `^2.0`
+**3** versions archived · Latest: [`2.2.0`](https://github.com/flarchive/tapao-line-notification/tree/archive/v2.2.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.1.0` | 2026-07-05 | `^2.0` | [Browse](https://github.com/flarchive/tapao-line-notification/tree/archive/v2.1.0) |
+| `2.2.0` | 2026-07-09 | `^2.0` | [Browse](https://github.com/flarchive/tapao-line-notification/tree/archive/v2.2.0) |
+| `v1.1.6` | 2026-07-04 | `^1.8 || ^2.0` | [Browse](https://github.com/flarchive/tapao-line-notification/tree/archive/v1.1.6) |
 
 Catalog entry: [packages/tapao-line-notification.json](https://github.com/flarchive/archive-index/blob/main/packages/tapao-line-notification.json)
 
